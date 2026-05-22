@@ -42,7 +42,7 @@ Keep the README direct and usable. Someone should be able to copy the commands a
 
 ## Example service README shape
 
-```markdown
+````markdown
 # Service Name
 
 ## Purpose
@@ -78,7 +78,7 @@ example-cli --host 127.0.0.1 --port 1234
 ```bash
 docker compose down -v
 ```
-```
+````
 
 ## Scope boundaries
 
